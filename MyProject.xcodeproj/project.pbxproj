@@ -10,6 +10,13 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
+		<key>0780E0D174DD2195C452EC3E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>AE88C3EDBAFA2864AE29627E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>0EC365D59C094E95B4AE3CF5</key>
 		<dict>
 			<key>buildActionMask</key>
@@ -81,7 +88,7 @@ fi
 			<key>shellPath</key>
 			<string>/bin/sh</string>
 			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-MyProject/Pods-MyProject-resources.sh"
+			<string>"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh"
 </string>
 			<key>showEnvVarsInLog</key>
 			<string>0</string>
@@ -192,6 +199,7 @@ fi
 			<key>files</key>
 			<array>
 				<string>1EBEC18CF6E24776984215A3</string>
+				<string>0780E0D174DD2195C452EC3E</string>
 			</array>
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
@@ -894,6 +902,7 @@ fi
 			<key>children</key>
 			<array>
 				<string>D9F47670B009DD711B79B350</string>
+				<string>AE88C3EDBAFA2864AE29627E</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -915,6 +924,19 @@ fi
 			<string>Pods</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>AE88C3EDBAFA2864AE29627E</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
 		<key>D40D488B5A39E80F25E5E202</key>
 		<dict>

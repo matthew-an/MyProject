@@ -17,8 +17,4 @@
     return @"hello, world";
 }
 
-+ (NSString *)world2 {
-    return @"hello, world";
-}
-
 @end
