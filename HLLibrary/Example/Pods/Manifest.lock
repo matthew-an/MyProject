@@ -1,0 +1,14 @@
+PODS:
+  - HLLibrary (0.1.0)
+
+DEPENDENCIES:
+  - HLLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  HLLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HLLibrary: bdbbe6b1c3777f75d2c335d2d60ae69f11104fef
+
+COCOAPODS: 0.35.0

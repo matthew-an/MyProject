@@ -1,0 +1,5 @@
+#include "Pods-HLLibrary-HLLibrary.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/HLLibrary" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/HLLibrary"
+OTHER_LDFLAGS = -ObjC
+PODS_ROOT = ${SRCROOT}
